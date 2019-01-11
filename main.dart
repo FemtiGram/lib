@@ -4,6 +4,8 @@ import './product_manager.dart';
 
 void main() => runApp(MyApp());
 
+// Added comment for first GIT test
+
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
